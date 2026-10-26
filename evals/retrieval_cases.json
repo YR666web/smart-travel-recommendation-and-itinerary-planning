@@ -1,0 +1,14 @@
+[
+  {"query": "杭州西湖景点怎么玩", "region": "杭州", "content_type": "景点介绍", "expected_file": "杭州景点推荐.md"},
+  {"query": "成都景点推荐", "region": "成都", "content_type": "景点介绍", "expected_file": "成都景点推荐.md"},
+  {"query": "厦门值得去的景点", "region": "厦门", "content_type": "景点介绍", "expected_file": "厦门景点推荐.md"},
+  {"query": "三亚必去景区", "region": "三亚", "content_type": "景点介绍", "expected_file": "三亚景点推荐.md"},
+  {"query": "云南风景名胜", "region": "云南", "content_type": "景点介绍", "expected_file": "云南景点推荐.md"},
+  {"query": "张家界景点怎么游览", "region": "张家界", "content_type": "景点介绍", "expected_file": "张家界景点推荐.md"},
+  {"query": "杭州两日游路线", "region": "杭州", "content_type": "线路推荐", "expected_file": "杭州线路推荐.md"},
+  {"query": "成都旅游行程安排", "region": "成都", "content_type": "线路推荐", "expected_file": "成都线路推荐.md"},
+  {"query": "厦门旅游线路", "region": "厦门", "content_type": "线路推荐", "expected_file": "厦门线路推荐.md"},
+  {"query": "三亚游玩路线", "region": "三亚", "content_type": "线路推荐", "expected_file": "三亚线路推荐.md"},
+  {"query": "云南几日游线路", "region": "云南", "content_type": "线路推荐", "expected_file": "云南线路推荐.md"},
+  {"query": "张家界旅行计划", "region": "张家界", "content_type": "线路推荐", "expected_file": "张家界线路推荐.md"}
+]

@@ -1,0 +1,38 @@
+# 临时日志
+*.log
+
+# 环境与密钥
+.env
+.venv/
+.uv-cache/
+.pytest_tmp/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# 模型与运行时数据（大文件，不入库）
+/models/
+storage/
+knowledge_base/
+
+# 仅保留在本机的项目文档
+景文智核-学习指南.md
+景文智核-开发步骤文档.md
+景文智核-技术设计文档（TDD）.md
+景文智核-需求规格说明书（PRD）.md
+景文智核-面试项目经历与问答.md
+景文智核-项目总结提示词.md
+
+# 前端
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/

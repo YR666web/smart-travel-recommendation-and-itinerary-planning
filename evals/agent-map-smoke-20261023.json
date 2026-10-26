@@ -1,0 +1,42 @@
+{
+  "evaluated_at": "2026-10-23T17:15:18.073693",
+  "cases": 1,
+  "successful": 1,
+  "results": [
+    {
+      "case": {
+        "city": "杭州",
+        "days": 2,
+        "budget": 1500,
+        "interests": "自然风景和美食"
+      },
+      "run_id": "7be2b75e-a86e-4f2f-aca4-e095bce839ae",
+      "success": true,
+      "city_days_correct": true,
+      "has_citation": true,
+      "within_budget": true,
+      "structured_places": true,
+      "map_status": "checked",
+      "map_issue_count": 0,
+      "checked_legs": 4,
+      "total_legs": 4,
+      "tool_errors": 0,
+      "elapsed_ms": 14141,
+      "usage": {
+        "prompt_tokens": 16900,
+        "completion_tokens": 1341
+      }
+    }
+  ],
+  "metrics": {
+    "completion_rate": 1.0,
+    "city_days_correct_rate": 1.0,
+    "citation_rate": 1.0,
+    "within_budget_rate": 1.0,
+    "structured_places_rate": 1.0,
+    "map_checked_rate": 1.0,
+    "route_coverage": 1.0,
+    "mean_latency_ms": 14141,
+    "mean_tokens": 18241
+  }
+}

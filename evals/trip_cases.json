@@ -1,0 +1,14 @@
+[
+  {"city": "杭州", "days": 2, "budget": 1500, "interests": "自然风景和美食"},
+  {"city": "杭州", "days": 1, "budget": 400, "interests": "尽量步行"},
+  {"city": "成都", "days": 2, "budget": 1300, "interests": "博物馆和火锅"},
+  {"city": "成都", "days": 3, "budget": 2200, "interests": "亲子旅行"},
+  {"city": "厦门", "days": 2, "budget": 1600, "interests": "海边和当地美食"},
+  {"city": "厦门", "days": 1, "budget": 500, "interests": "轻松游览"},
+  {"city": "三亚", "days": 2, "budget": 2500, "interests": "海景和海鲜"},
+  {"city": "三亚", "days": 3, "budget": 4000, "interests": "带老人，少走路"},
+  {"city": "云南", "days": 3, "budget": 3000, "interests": "自然景观"},
+  {"city": "云南", "days": 2, "budget": 1800, "interests": "当地文化"},
+  {"city": "张家界", "days": 2, "budget": 1900, "interests": "山地景观"},
+  {"city": "张家界", "days": 3, "budget": 2600, "interests": "摄影和徒步"}
+]

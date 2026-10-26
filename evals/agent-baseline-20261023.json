@@ -1,0 +1,243 @@
+{
+  "evaluated_at": "2026-10-23T16:16:48.268753",
+  "cases": 12,
+  "successful": 12,
+  "results": [
+    {
+      "case": {
+        "city": "杭州",
+        "days": 2,
+        "budget": 1500,
+        "interests": "自然风景和美食"
+      },
+      "run_id": "84f63c3c-a008-4593-b1cb-fb9dcdc95bca",
+      "success": true,
+      "city_days_correct": true,
+      "has_citation": true,
+      "within_budget": true,
+      "tool_errors": 0,
+      "elapsed_ms": 9110,
+      "usage": {
+        "prompt_tokens": 10443,
+        "completion_tokens": 1218
+      }
+    },
+    {
+      "case": {
+        "city": "杭州",
+        "days": 1,
+        "budget": 400,
+        "interests": "尽量步行"
+      },
+      "run_id": "75b9f482-e89c-4b2e-a815-76d6d15be255",
+      "success": true,
+      "city_days_correct": true,
+      "has_citation": true,
+      "within_budget": true,
+      "tool_errors": 0,
+      "elapsed_ms": 9578,
+      "usage": {
+        "prompt_tokens": 15526,
+        "completion_tokens": 1233
+      }
+    },
+    {
+      "case": {
+        "city": "成都",
+        "days": 2,
+        "budget": 1300,
+        "interests": "博物馆和火锅"
+      },
+      "run_id": "39afa938-f7ea-445f-9586-8bf25ce487de",
+      "success": true,
+      "city_days_correct": true,
+      "has_citation": true,
+      "within_budget": true,
+      "tool_errors": 0,
+      "elapsed_ms": 11297,
+      "usage": {
+        "prompt_tokens": 19282,
+        "completion_tokens": 1471
+      }
+    },
+    {
+      "case": {
+        "city": "成都",
+        "days": 3,
+        "budget": 2200,
+        "interests": "亲子旅行"
+      },
+      "run_id": "78aca69b-da2a-4e5d-91e9-9fba38d211ab",
+      "success": true,
+      "city_days_correct": true,
+      "has_citation": true,
+      "within_budget": true,
+      "tool_errors": 0,
+      "elapsed_ms": 9343,
+      "usage": {
+        "prompt_tokens": 11124,
+        "completion_tokens": 1291
+      }
+    },
+    {
+      "case": {
+        "city": "厦门",
+        "days": 2,
+        "budget": 1600,
+        "interests": "海边和当地美食"
+      },
+      "run_id": "4d9265e0-473f-49c1-be28-2d1d6612c8e4",
+      "success": true,
+      "city_days_correct": true,
+      "has_citation": true,
+      "within_budget": true,
+      "tool_errors": 0,
+      "elapsed_ms": 8454,
+      "usage": {
+        "prompt_tokens": 11252,
+        "completion_tokens": 1239
+      }
+    },
+    {
+      "case": {
+        "city": "厦门",
+        "days": 1,
+        "budget": 500,
+        "interests": "轻松游览"
+      },
+      "run_id": "e4b7c4c2-de54-4674-ace9-f73adfdff509",
+      "success": true,
+      "city_days_correct": true,
+      "has_citation": true,
+      "within_budget": true,
+      "tool_errors": 0,
+      "elapsed_ms": 7812,
+      "usage": {
+        "prompt_tokens": 10439,
+        "completion_tokens": 1164
+      }
+    },
+    {
+      "case": {
+        "city": "三亚",
+        "days": 2,
+        "budget": 2500,
+        "interests": "海景和海鲜"
+      },
+      "run_id": "f25a2a8c-00f3-467a-8f46-8a0ad3226dbc",
+      "success": true,
+      "city_days_correct": true,
+      "has_citation": true,
+      "within_budget": true,
+      "tool_errors": 0,
+      "elapsed_ms": 11078,
+      "usage": {
+        "prompt_tokens": 19865,
+        "completion_tokens": 1481
+      }
+    },
+    {
+      "case": {
+        "city": "三亚",
+        "days": 3,
+        "budget": 4000,
+        "interests": "带老人，少走路"
+      },
+      "run_id": "4b8a6c91-d084-494d-a9a4-d2097d50f0e5",
+      "success": true,
+      "city_days_correct": true,
+      "has_citation": true,
+      "within_budget": true,
+      "tool_errors": 0,
+      "elapsed_ms": 11969,
+      "usage": {
+        "prompt_tokens": 12474,
+        "completion_tokens": 1445
+      }
+    },
+    {
+      "case": {
+        "city": "云南",
+        "days": 3,
+        "budget": 3000,
+        "interests": "自然景观"
+      },
+      "run_id": "76f30895-9c07-40c3-b17a-cd535179284a",
+      "success": true,
+      "city_days_correct": true,
+      "has_citation": true,
+      "within_budget": true,
+      "tool_errors": 0,
+      "elapsed_ms": 11281,
+      "usage": {
+        "prompt_tokens": 22097,
+        "completion_tokens": 1500
+      }
+    },
+    {
+      "case": {
+        "city": "云南",
+        "days": 2,
+        "budget": 1800,
+        "interests": "当地文化"
+      },
+      "run_id": "aaabfa87-2c94-403e-9718-255289817e51",
+      "success": true,
+      "city_days_correct": true,
+      "has_citation": true,
+      "within_budget": true,
+      "tool_errors": 0,
+      "elapsed_ms": 9313,
+      "usage": {
+        "prompt_tokens": 12205,
+        "completion_tokens": 1279
+      }
+    },
+    {
+      "case": {
+        "city": "张家界",
+        "days": 2,
+        "budget": 1900,
+        "interests": "山地景观"
+      },
+      "run_id": "87060389-5d5c-4405-a303-08a69e472682",
+      "success": true,
+      "city_days_correct": true,
+      "has_citation": true,
+      "within_budget": true,
+      "tool_errors": 0,
+      "elapsed_ms": 8062,
+      "usage": {
+        "prompt_tokens": 10775,
+        "completion_tokens": 1221
+      }
+    },
+    {
+      "case": {
+        "city": "张家界",
+        "days": 3,
+        "budget": 2600,
+        "interests": "摄影和徒步"
+      },
+      "run_id": "1daa73b3-c58b-4dc3-b264-676ba447e991",
+      "success": true,
+      "city_days_correct": true,
+      "has_citation": true,
+      "within_budget": true,
+      "tool_errors": 0,
+      "elapsed_ms": 9578,
+      "usage": {
+        "prompt_tokens": 10824,
+        "completion_tokens": 1363
+      }
+    }
+  ],
+  "metrics": {
+    "completion_rate": 1.0,
+    "city_days_correct_rate": 1.0,
+    "citation_rate": 1.0,
+    "within_budget_rate": 1.0,
+    "mean_latency_ms": 9740,
+    "mean_tokens": 15184
+  }
+}
