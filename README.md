@@ -52,7 +52,7 @@ python -m scripts.evaluate_agent --limit 3
 
 ### Windows 一键启动
 
-首次使用时，按下方步骤安装 Python 和前端依赖、创建并填写 `.env`，并确认 MySQL 已启动及 `travel_kb` 数据库已创建。之后双击项目根目录的 `start-platform.cmd`，脚本会启动后端和前端，等待服务就绪后打开 http://127.0.0.1:5173/。后续再次双击不会重复启动。双击 `stop-platform.cmd` 可停止由该脚本启动的两个进程；运行日志保存在 `storage/logs/`，不会提交到 GitHub。
+首次使用时，按下方步骤安装 Python 和前端依赖、创建并填写 `.env`，并确认 MySQL 已启动及 `travel_kb` 数据库已创建。之后双击项目根目录的 `start.bat`，脚本会启动后端和前端，等待服务就绪后打开 http://127.0.0.1:5173/。后续再次双击不会重复启动。用完后可在 PowerShell 中运行 `powershell -NoProfile -ExecutionPolicy Bypass -File scripts/platform.ps1 -Action stop` 停止由该脚本启动的两个进程；运行日志保存在 `storage/logs/`，不会提交到 GitHub。
 
 若启动失败，命令窗口会显示原因并暂停，方便查看提示。也可在 PowerShell 中运行 `powershell -NoProfile -ExecutionPolicy Bypass -File scripts/platform.ps1 -Action status` 查看运行状态。
 
