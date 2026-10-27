@@ -56,6 +56,8 @@ python -m scripts.evaluate_agent --limit 3
 
 若启动失败，命令窗口会显示原因并暂停，方便查看提示。也可在 PowerShell 中运行 `powershell -NoProfile -ExecutionPolicy Bypass -File scripts/platform.ps1 -Action status` 查看运行状态。
 
+在 PyCharm 的项目树里双击 `start.bat` 只会打开文件。要在 PyCharm 内启动，打开底部 **Terminal**，切换到包含 `start.bat` 的项目根目录后输入 `./start.bat`（PowerShell 也可输入 `.\start.bat`）；想直接双击运行则需在 Windows 文件资源管理器中打开该文件。
+
 ### 手动启动
 
 ```bash
